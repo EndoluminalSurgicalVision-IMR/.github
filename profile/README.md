@@ -1,4 +1,4 @@
-## Hi! Welcome to the EndoSurgVision Group led by Dr. Yun Gu!
+## Hi! Welcome to the EndoSurgVision Group!
 
 <!--
 
